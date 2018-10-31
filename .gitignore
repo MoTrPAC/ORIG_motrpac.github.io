@@ -1,0 +1,5 @@
+.sass-cache/
+Gemfile.lock
+_layouts/_site/
+_layouts/index.html
+_site/
